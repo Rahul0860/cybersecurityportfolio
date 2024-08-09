@@ -2,9 +2,6 @@
 # Hello, I'm Rahul
 <a href="https://www.linkedin.com/in/rahul-joshi-a48b792b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
-
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
@@ -24,8 +21,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-blue">
+</a>
 
-<a herf="https://github.com/Rahul0860/testRepo/tree/main"><img src="https://img.shields.io/badge/Wireshark-blue"/></a>
 
 ### Network
 <div>
