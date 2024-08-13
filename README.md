@@ -21,9 +21,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-blue">
-</a>
 
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF">
+</a>
 
 ### Network
 <div>
