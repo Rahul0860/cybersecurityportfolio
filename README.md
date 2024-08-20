@@ -1,8 +1,8 @@
-# Ketmanto-Cybersecurity-Portfolio
+# Rahul-joshi-Cybersecurity-Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
 
 ## Professional Statements
-My name is Koli Devi. I hold a Bachelor’s degree in Mechanical Engineering and a Post Graduate Diploma in Computer Applications. Currently, I am pursuing the Google Cybersecurity Professional Certificate to enhance my skills in cybersecurity analysis.
+My name is Rahul. I hold a Bachelor’s degree in Mechanical Engineering and a Post Graduate Diploma in Computer Applications. Currently, I am pursuing the Google Cybersecurity Professional Certificate to enhance my skills in cybersecurity analysis.
 
 With experience in machine design using SolidWorks, I have developed strong technical and analytical abilities. My passion for technology and security drives me to protect digital environments and ensure robust security measures.
 
@@ -41,17 +41,26 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 ### Tools 
-Several tools that I used: 
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF">
+</a>
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/tcpdump-red?style=for-the-badge"></a>
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=kalilinux&logoColor=red&label=kali&labelColor=white"></a>
+
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/sql-%23008080?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=orange&labelColor=%23008080"></a>
+
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Splunk%3E-black?style=for-the-badge&logo=splunk&logoColor=white&logoSize=green&labelColor=green">
+</a>
+
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Suricata-black?style=for-the-badge&logo=bevy&logoColor=white&logoSize=orange&labelColor=orange">
+</a>
+
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23191970?style=for-the-badge&logo=python&logoColor=white&logoSize=orange&labelColor=black"></a>
+
+<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Markdown_Language-%232f4f4f?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&logoSize=orange&labelColor=black"></a>
+
+
 * Google Workspace (Drive, Docs, Sheets, Slides)
-* Markdown Language 
-* Tcpdump
-* Wireshark
-* Linux OS
-* SQL
 * Chronicle
-* Splunk
-* Suricata
-* Python 
 
 ### Other references 
 Please have a look on other standalone portfolio that I published: 
