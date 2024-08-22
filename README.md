@@ -40,23 +40,20 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 | [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
-### Tools 
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF">
-</a>
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/tcpdump-red?style=for-the-badge"></a>
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=kalilinux&logoColor=red&label=kali&labelColor=white"></a>
+<div align="center">
+  <h2>Tools</h2>
+  <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
+  <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="tcpdump" src="https://img.shields.io/badge/tcpdump-red?style=for-the-badge"></a>
+  <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=kalilinux&logoColor=red&label=kali&labelColor=white"></a>
+  <img alt="SQL" src="https://img.shields.io/badge/sql-%23008080?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=orange&labelColor=%23008080">
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk%3E-black?style=for-the-badge&logo=splunk&logoColor=white&logoSize=green&labelColor=green">
+  <img alt="Suricata" src="https://img.shields.io/badge/Suricata-black?style=for-the-badge&logo=bevy&logoColor=white&logoSize=orange&labelColor=orange">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%23191970?style=for-the-badge&logo=python&logoColor=white&logoSize=orange&labelColor=black">
+  <img alt="Markdown Language" src="https://img.shields.io/badge/Markdown_Language-%232f4f4f?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&logoSize=orange&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=%2339004d&logoSize=auto&labelColor=%23ffeecc&color=%23333300">
 
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/sql-%23008080?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=orange&labelColor=%23008080"></a>
+</div>
 
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Splunk%3E-black?style=for-the-badge&logo=splunk&logoColor=white&logoSize=green&labelColor=green">
-</a>
-
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Suricata-black?style=for-the-badge&logo=bevy&logoColor=white&logoSize=orange&labelColor=orange">
-</a>
-
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Python-%23191970?style=for-the-badge&logo=python&logoColor=white&logoSize=orange&labelColor=black"></a>
-
-<a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Static Badge" src="https://img.shields.io/badge/Markdown_Language-%232f4f4f?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&logoSize=orange&labelColor=black"></a>
 
 
 * Google Workspace (Drive, Docs, Sheets, Slides)
