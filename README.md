@@ -73,7 +73,9 @@ Please have a look on other standalone portfolio that I published:
 **Stay tuned for updates!**
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
+Thank you for your time. For more information, please connect with me on <a href="https://www.linkedin.com/in/rahul-joshi-a48b792b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%234169E1?style=social&logo=linkedin&logoColor=black&logoSize=auto&labelColor=%234169E1&color=%234169E1">
+</a>
+.
 
 
 <!--
