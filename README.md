@@ -51,6 +51,10 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
   <img alt="Python" src="https://img.shields.io/badge/Python-%23191970?style=for-the-badge&logo=python&logoColor=white&logoSize=orange&labelColor=black">
   <img alt="Markdown Language" src="https://img.shields.io/badge/Markdown_Language-%232f4f4f?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&logoSize=orange&labelColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=%2339004d&logoSize=auto&labelColor=%23ffeecc&color=%23333300">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=metasploit&logoColor=%23FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/virtualbox-%23FFF5EE?style=for-the-badge&logo=virtualbox&logoColor=black">
+
+
 
 </div>
 
