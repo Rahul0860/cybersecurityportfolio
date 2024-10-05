@@ -11,3 +11,9 @@ To do this, you'll need to do some accounting on the incident to better understa
 3. **Spot issues with the access controls that were exploited by the user.**
 4. **Recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.**
 
+
+   ![Screenshot 2024-10-05 121714](https://github.com/user-attachments/assets/e0dcb379-1a09-44d4-873d-cd92a0043a77)
+
+![Screenshot 2024-10-05 121704](https://github.com/user-attachments/assets/a6bced29-c146-4351-b078-2d2498a59187)
+![Screenshot 2024-10-05 174547](https://github.com/user-attachments/assets/e2abc195-3e09-4e9c-9a32-99bdb0816229)
+
