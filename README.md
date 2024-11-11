@@ -28,6 +28,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 * IT Security Analyst
 * Cyber Defense Analyst
 
+<!---
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
@@ -39,7 +40,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 | [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
 | [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
-
+--->
 <div align="center">
   <h2>Tools</h2>
   <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
@@ -65,9 +66,9 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 ### Other references 
 Please have a look on other standalone portfolio that I published: 
-* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
-* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
-* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
+* Python - Cybersecurity - [Bruteforce Zipfile]()
+* Python - Cybersecurity - [Automation Case]()
+* Python - Cybersecurity - [Transaction Fraud]() 
 * Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
 
 **Stay tuned for updates!**
